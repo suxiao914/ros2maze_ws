@@ -1,0 +1,17 @@
+﻿# colcon build artefacts
+build/
+install/
+log/
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+# editors / OS
+.vscode/
+.idea/
+*.bak
+*.swp
+.DS_Store
+# runtime outputs of the nodes
+tb3_trajectory.csv
+tb3_trajectory.png
