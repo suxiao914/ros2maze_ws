@@ -123,6 +123,6 @@ maze_control/
 
 ## 11. 开源
 
-- 仓库地址：https://github.com/<填写你的用户名>/ros2maze_ws
+- 仓库地址：https://github.com/suxiao914/ros2maze_ws
 - 仓库只包含 `src/`、`README.md` 与必要图示，不含 `build/`、`install/`、`log/`、`__pycache__`。
 - 工作空间级的说明见仓库根目录的 `README.md`。
