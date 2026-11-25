@@ -6,7 +6,7 @@ ROS 2 Humble + Gazebo Classic 11，在自定义迷宫世界里让 TurtleBot3 Bur
 
 - 组长：陈伟泷（24061719）
 - 组员：孙怡飞（24061610）
-- 开源地址：https://github.com/<填写你的用户名>/ros2maze_ws
+- 开源地址：https://github.com/suxiao914/ros2maze_ws
 
 ## 一、环境版本
 
@@ -107,7 +107,7 @@ ros2maze_ws/
 
 ## 六、开源
 
-- 仓库：https://github.com/<填写你的用户名>/ros2maze_ws
+- 仓库：https://github.com/suxiao914/ros2maze_ws
 - 只包含 `src/`、`README.md` 与必要图示，不含 `build/`、`install/`、`log/`、`__pycache__`。
 - 引用与参考见报告第 9 章。
 
